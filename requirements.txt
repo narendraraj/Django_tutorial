@@ -1,0 +1,6 @@
+requests
+Django
+pillow
+ipython
+django-crispy-forms
+django-filter
